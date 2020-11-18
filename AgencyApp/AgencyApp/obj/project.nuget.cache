@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "xkR2kVuj6oCRGO/j3r6xUWD7Rh6x+dhpJu5xkZV5CDxPRnMbWyN5IYDmtNfA+GVhI0goIeJsnZnJB8Z4uGuBYw==",
+  "success": true,
+  "projectFilePath": "D:\\AutomationVesuvioProjects\\AutomationCsharp\\AgencyApp\\AgencyApp\\AgencyApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bisha\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1000\\microsoft.office.interop.excel.15.0.4795.1000.nupkg.sha512",
+    "C:\\Users\\bisha\\.nuget\\packages\\microsoft.testplatform.testhost\\16.8.0\\microsoft.testplatform.testhost.16.8.0.nupkg.sha512",
+    "C:\\Users\\bisha\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\bisha\\.nuget\\packages\\nunit3testadapter\\3.17.0\\nunit3testadapter.3.17.0.nupkg.sha512",
+    "C:\\Users\\bisha\\.nuget\\packages\\selenium.chrome.webdriver\\85.0.0\\selenium.chrome.webdriver.85.0.0.nupkg.sha512",
+    "C:\\Users\\bisha\\.nuget\\packages\\selenium.support\\3.141.0\\selenium.support.3.141.0.nupkg.sha512",
+    "C:\\Users\\bisha\\.nuget\\packages\\selenium.webdriver\\3.141.0\\selenium.webdriver.3.141.0.nupkg.sha512",
+    "C:\\Users\\bisha\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
+    "C:\\Users\\bisha\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\bisha\\.nuget\\packages\\system.security.permissions\\5.0.0\\system.security.permissions.5.0.0.nupkg.sha512",
+    "C:\\Users\\bisha\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
